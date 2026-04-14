@@ -22,7 +22,7 @@ for real-time data collection during powered flight.
 
 ## Design Components
 - Nosecone (3D printed PLA)
-- Body tube sections (3D printed PLA)
+- Body tube sections (cardboard tube)
 - Avionics bay (3D printed PETG, shock-mounted)
 - Fins - 4x (3D printed PLA or TPU)
 - Engine mount (3D printed PETG)
