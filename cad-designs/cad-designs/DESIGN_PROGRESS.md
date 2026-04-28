@@ -1,18 +1,29 @@
 # CAD Design Progress
 
-## Current Status: Week 1 - Nosecone Design
+## Current Status: Week 1 - Nosecone Design, Body tube design finished
 
 ### Nosecone (In Progress)
 - **Status:** Designing in Fusion 360
 - **Shape:** Cone
 - **Dimensions:**
-  - Height: 4 inches
-  - Base diameter: 2 inches
+  - Height: 4.3 inches
+  - Base diameter: 2.6 inches
   - Tip diameter: 0.1 inches
   - Wall thickness: 2mm
 - **Material:** PLA
 - **Expected print time:** 2-3 hours
 - **Progress:** [In progress - learning Fusion 360]
+
+### Body Tube (Finished)
+- **Status:** Finished designing in Fusion 360
+- **Shape:** Hollow Cylinder
+- **Dimensions:**
+  - Height: 28.4 inches
+  - Base diameter: 2.6 inches
+  - Wall thickness: .04 inches
+- **Material:** Cardboard
+- **Delivery Status:** Unordered
+- **Progress:** Finished - Need to order actual tubes
 
 ### Next Up (Planned)
 - [ ] Fins (Week 2)
@@ -23,15 +34,15 @@
 - [ ] Launch Controller Box (Week 7)
 
 ### Design Notes
-- Using Fusion 360 (free student license)
-- All parts designed to be 3D printable
-- Nosecone: Simple cone shape to start
+- Using Fusion 360 (Free plan)
+- All parts but body tube to be 3d printed
 - Each design will be tested with small prints first
+- Note to self: Get details official before adding to GitHub
 
 ### Lessons Learned
-- Fusion 360 basics: sketches, extrude, cone creation
+- Fusion 360 basics: sketches, extrude, cone creation, hollowing objects, assembely 
 - [Will add as I progress]
 
 ### Files
 - Fusion 360 files: Saved locally, will upload STL files once ready
-- Next update: After nosecone print test
+- Next update: Learn more Fusion 360, design fins
