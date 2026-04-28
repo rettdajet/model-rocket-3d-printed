@@ -1,0 +1,37 @@
+# CAD Design Progress
+
+## Current Status: Week 1 - Nosecone Design
+
+### Nosecone (In Progress)
+- **Status:** Designing in Fusion 360
+- **Shape:** Cone
+- **Dimensions:**
+  - Height: 4 inches
+  - Base diameter: 2 inches
+  - Tip diameter: 0.1 inches
+  - Wall thickness: 2mm
+- **Material:** PLA
+- **Expected print time:** 2-3 hours
+- **Progress:** [In progress - learning Fusion 360]
+
+### Next Up (Planned)
+- [ ] Fins (Week 2)
+- [ ] Fin Brackets (Week 3)
+- [ ] Engine Mount (Week 4)
+- [ ] Avionics Bay (Week 5)
+- [ ] Parachute Bay (Week 6)
+- [ ] Launch Controller Box (Week 7)
+
+### Design Notes
+- Using Fusion 360 (free student license)
+- All parts designed to be 3D printable
+- Nosecone: Simple cone shape to start
+- Each design will be tested with small prints first
+
+### Lessons Learned
+- Fusion 360 basics: sketches, extrude, cone creation
+- [Will add as I progress]
+
+### Files
+- Fusion 360 files: Saved locally, will upload STL files once ready
+- Next update: After nosecone print test
