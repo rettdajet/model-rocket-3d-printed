@@ -33,15 +33,12 @@ for real-time data collection during powered flight.
 - **Backup:** AirTag tracking for quick recovery
 - **Secondary:** Bright orange paint for visual location
 
-## Project Timeline
-| Phase | Weeks | Milestone |
-|-------|-------|-----------|
-| **1** | 1-2 | Order sensors, wait for arrival |
-| **2** | 2-4 | Integrate sensors with Arduino |
-| **3** | 4-6 | Design rocket in CAD (Fusion 360) |
-| **4** | 6-10 | 3D print and assemble rocket |
-| **5** | 10-12 | Testing and preparation |
-| **6** | 12+ | Launch and flight test |
+## Project Progress
+- **Electronics** Learning python, Arduino arrived, need to order more parts (Still a broke teenager)
+- **Designing** Learning Fusion 360, first file done, working on nose cone
+- **Printing/Construction** Not started
+- **Flights and Tests** None yet
+
 
 ## Flight Data Goals
 - [ ] Record peak altitude
@@ -49,4 +46,3 @@ for real-time data collection during powered flight.
 - [ ] Log temperature changes
 - [ ] Analyze stability during ascent
 - [ ] Verify parachute deployment
-- [
