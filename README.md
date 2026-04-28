@@ -2,12 +2,12 @@
 # Model Rocket with Integrated Flight Computer
 
 ## Overview
-A 2-foot custom-designed rocket featuring an Arduino-based flight computer with integrated sensors 
+A 2-foot BT80 custom-designed rocket featuring an Arduino-based flight computer with integrated sensors 
 for real-time data collection during powered flight.
 
 ## Specifications
-- **Height:** 24 inches (2 feet)
-- **Diameter:** 2-3 inches
+- **Height:** 28.4 inches 
+- **Diameter:** 2.6 inches
 - **Engine:** Estes C6-5 (beginner-friendly, safe)
 - **Expected Altitude:** 500-1000 feet
 - **Recovery:** Parachute + AirTag tracking
@@ -23,7 +23,7 @@ for real-time data collection during powered flight.
 ## Design Components
 - Nosecone (3D printed PLA)
 - Body tube sections (cardboard tube)
-- Avionics bay (3D printed PETG, shock-mounted)
+- Avionics bay (3D printed PETG)
 - Fins - 4x (3D printed PLA or TPU)
 - Engine mount (3D printed PETG)
 - Parachute bay (3D printed PLA)
