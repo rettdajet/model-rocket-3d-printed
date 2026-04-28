@@ -11,7 +11,7 @@ This folder contains all files (.stl format) that will be 3d printed or used as 
 - Date exported: [4/28/26]
 
 ### In Progress
-- `nosecone_BT80.stl` - Cone nosecone (4.3" tall)
+- `nosecone_BT80.stl` - Nosecone (4.3" tall)
   - Status: Partially complete, needs final touches
   - Expected completion: within the week
 
