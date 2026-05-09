@@ -1,8 +1,8 @@
 # CAD Design Progress
 
-## Current Status: Week 1 - Nosecone Design, Body tube design finished
+## Current Status: Nosecone Design in progress (still), Body tube and fin design finished
 
-### Nosecone (In Progress)
+### Nosecone (Edits needed but mostly finished)
 - **Status:** Designing in Fusion 360
 - **Shape:** Cone
 - **Dimensions:**
@@ -25,6 +25,17 @@
 - **Delivery Status:** Unordered
 - **Progress:** Finished - Need to order actual tubes
 
+### Fins (FINished! See what I did there?)
+- **Status:** Finished designing in Fusion 360
+- **Shape:** Trapazoid
+- **Dimiensions:**
+  - Height: 3 inches
+  - Base: 2 inches
+  - Width: .12 inches
+- **Material:** PLA
+- **Expected print time:** 1 hour each
+- **Progress:** Finished model - need to 3d print small scale
+
 ### Next Up (Planned)
 - [ ] Fins (Week 2)
 - [ ] Fin Brackets (Week 3)
@@ -40,9 +51,13 @@
 - Note to self: Get details official before adding to GitHub
 
 ### Lessons Learned
-- Fusion 360 basics: sketches, extrude, cone creation, hollowing objects, assembely 
-- [Will add as I progress]
-
+- Sketch creation (circles, lines, trapezoids)
+- Extrude operations (creating 3D from 2D)
+- Loft operations (tapering cone shape)
+- Fillet operations (rounding edges)
+- Assembly creation and component positioning
+- Understanding coordinate planes (XY, XZ, YZ)
+  
 ### Files
 - Fusion 360 files: Saved locally, will upload STL files once ready
-- Next update: Learn more Fusion 360, design fins
+- Next update: Learn more Fusion 360, print mini scale, design more files
